@@ -50,7 +50,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         // Allow tapping the card to flip it
-        binding.cardView.setOnClickListener {
+        binding.cardContainer.setOnClickListener {
             flipCard()
         }
     }
