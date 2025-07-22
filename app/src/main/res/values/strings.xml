@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Carfs - Language Cards</string>
+    <string name="hello_world">Welcome to Carfs!</string>
+    <string name="card_front">Front</string>
+    <string name="card_back">Back</string>
+    <string name="flip_card">Flip Card</string>
+    <string name="next_card">Next Card</string>
+    <string name="previous_card">Previous Card</string>
+    <string name="add_new_card">Add New Card</string>
+    <string name="front_text_hint">Enter front text (e.g., English word)</string>
+    <string name="back_text_hint">Enter back text (e.g., Translation)</string>
+    <string name="save_card">Save Card</string>
+    <string name="cancel">Cancel</string>
+</resources>
